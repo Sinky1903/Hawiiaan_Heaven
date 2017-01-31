@@ -1,0 +1,41 @@
+body {
+
+  background-image: url("http://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/06/pizza-ananas-1.jpg");
+  height: 1800px;
+  background-position: center center;
+}
+
+
+h1, {
+  color: black;
+  font-size: 100px;
+  text-align: center;
+  top: 20%;
+}
+
+p {
+  color: white;
+}
+
+a {
+color: lightsteelblue;
+}
+
+a:visited {
+color: green;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: silver;
+}
+
+.order_details {
+background-color: darkgrey;
+display: flex;
+justify-content: flex-end;
+
+}
